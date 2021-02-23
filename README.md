@@ -34,7 +34,7 @@ npm start
 * React
 * Mongodb
 * React Hooks
-* 
+* Canvas API
 
 
 ## Authors
