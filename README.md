@@ -7,7 +7,7 @@
 Provide a social media platform for artists
 
 ## Features
-* Add image topics
+* Add image topic
 * Upload pictures of drawings in your own style
 * Paint an iteration in your own style
 * Comment on eachother's drawings
