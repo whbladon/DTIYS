@@ -17,7 +17,7 @@ Provide a social media platform for artists
 1. Fork and clone the repo
 2. Install node dependencies
 ```bash
-npm i
+npm intall
 ```
 3. Bundle the application
 ```js
