@@ -3,7 +3,7 @@
 
 
 
-## Motivation
+### Motivation
 Provide a social media platform for artists
 
 ## Features
